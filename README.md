@@ -133,7 +133,6 @@ If a gate slips we cut in this order: replicator dynamics, stretch expectimax ag
 | Aditya Singh | 2024A8PS0491H | `contracts/`, `cases/` data contracts and case library |
 | Rohan Baban Pagire | 2024A7PS1160H | `gametheory/` payoff Monte Carlo, Nash solver, analysis |
 
-Each member owns one package, writes its tests, defends it in the viva and reviews the next person's pull requests in a ring.
 
 ## Contributing workflow
 
